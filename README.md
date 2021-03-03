@@ -1,6 +1,6 @@
 # laser-detection-unity
 
-`LaserDetectionUnity` is an iOS protoype that retreives abd maps detected laser pointer coordinates as bullet holes via the native iOS plugin
+`LaserDetectionUnity` is an iOS protoype developed in Unity that retreives and maps detected laser pointer coordinates as bullet holes via the native iOS plugin
 [OpenCViOSPlugin](https://github.com/stevesopoci/opencv-ios-plugin). 
 
 <h2> Usage </h2>
