@@ -5,7 +5,7 @@
 
 <h2> Usage </h2>
 
-1. Open `LaserDetection` in Unity.
+1. Open `LaserDetectionUnity` in Unity.
 2. The required iOS native plugin has been included in the project which can be found in _**Assets > Plugins > iOS**_. 
 3. Test the project via mouse in the editor or switch to the iOS platform. 
 4. After building to iOS, follow the instructions found in the  README.md of [OpenCViOSPlugin](https://github.com/stevesopoci/opencv-ios-plugin).
