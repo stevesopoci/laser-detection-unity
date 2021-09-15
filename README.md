@@ -5,7 +5,7 @@
 
 To see `LaserDetectionUnity` in action, you can navigate to a quick demonstration video on [YouTube](https://youtu.be/2dP90o_elYc).
 
-<h2> Usage </h2>
+<h2> Setup </h2>
 
 1. Open `LaserDetectionUnity` in Unity.
 2. The required iOS native plugin has been included in the project which can be found in _**Assets > Plugins > iOS**_. 
